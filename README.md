@@ -1,4 +1,4 @@
-# Faith Konopo — Portfolio
+# Faith Konopo  Portfolio
 
 A React + Vite + Tailwind single-page portfolio website (dark theme) for Faith Konopo Mojanaga.
 
