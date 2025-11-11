@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom dark theme tweaks */
+:root {
+  --bg: #0b0b0d;
+  --card: #111216;
+  --muted: #9ca3af;
+  --accent: #7c3aed;
+}
+
+body {
+  background: var(--bg);
+  color: #e6eef8;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.btn {
+  @apply inline-block px-4 py-2 rounded-lg font-semibold transition;
+}
