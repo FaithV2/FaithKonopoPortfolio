@@ -41,7 +41,7 @@ const useInView = (options) => {
 // Navbar
 const Nav = () => (
   <nav className="fixed top-4 left-4 right-4 z-50 flex justify-between items-center backdrop-blur-md bg-black/40 p-3 rounded-xl shadow-lg">
-    <div className="text-white font-bold text-lg md:text-xl">Faith Konopo</div>
+    <div className="text-white font-bold text-lg md:text-xl"></div>
     <div className="space-x-4 text-sm text-gray-300 hidden md:flex">
       {["home", "about", "skills", "projects", "contact"].map((item) => (
         <a
