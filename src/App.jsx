@@ -218,7 +218,7 @@ const ContactContent = () => {
           <button type="submit" className="bg-pink-500 hover:bg-purple-500 text-white px-4 py-2 rounded-xl shadow-lg transform transition-all duration-500 hover:scale-105">
             Send Message
           </button>
-          <a href="https://wa.me/26776018609" target="_blank" rel="noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-xl shadow-lg transform transition-all duration-500 hover:scale-105">
+          <a href="https://wa.me/26773599990" target="_blank" rel="noreferrer" className="bg-green-500 hover:bg-green-600 text-white px-4 py-2 rounded-xl shadow-lg transform transition-all duration-500 hover:scale-105">
             Message on WhatsApp
           </a>
         </div>
