@@ -83,7 +83,7 @@ const Hero = () => {
           <p className="mt-4 text-gray-200 text-lg">{typedSubtitle}</p>
           <p className="mt-4 text-gray-300">
             I design and build production-ready systems and web apps. Experienced in PHP, React, TypeScript, MySQL, and system analysis. Currently a student at Botswana Accountancy College, interned at Africa Code Academy.  
-            I am a Google GDG member and skilled in GitHub for version control and collaboration.
+            I am a Google Developer group member and skilled in GitHub for version control and collaboration.
           </p>
           <div className="mt-6 flex gap-4 flex-wrap justify-center md:justify-start">
             <a
@@ -141,7 +141,7 @@ const AboutContent = () => (
       <ul className="text-gray-400 mt-2 list-disc ml-5">
      
         <li>Software Developer Intern — Africa Code Academy (Jul 2025 - November 2025)</li>
-        <li>Google GDG Member</li>
+        <li> GDG Member</li>
       </ul>
     </div>
   </div>
